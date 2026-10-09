@@ -62,7 +62,7 @@ export const HomeView: React.FC<HomeViewProps> = ({ onNavigate, onSelectMember }
                 </p>
 
                 <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight text-white font-display leading-[1.15]">
-                  Rumah Para Juara Free Fire Esports.
+                  Tempat Para Sepuh Free Fire Esports.
                 </h1>
 
                 <p className="mt-2 text-xs sm:text-sm text-slate-300 leading-relaxed max-w-xl">
